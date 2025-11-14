@@ -21,6 +21,9 @@ I focus on building clean backend systems, optimizing infrastructure, and integr
   - K3s / Kubernetes basics  
 - 🧩 I enjoy debugging infrastructure issues (network, proxy, deployment) and writing clear technical documentation  
 
+## Skills & Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,git,github,nodejs,nestjs,fastapi,postgres,mongodb,k8s,docker,aws&perline=20)](https://skillicons.dev)
 ---
 
 ## 🔭 What I'm Currently Working On
