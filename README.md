@@ -69,5 +69,5 @@ A full pipeline that:
 > *(You can enable these after pushing the README to your profile repo)*
 
 ```md
-![Kane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Kane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kane-nguyen-02&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kane-nguyen-02&layout=compact)
