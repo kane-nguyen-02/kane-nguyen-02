@@ -1,4 +1,4 @@
-<img src="https://YOUR-BANNER-IMAGE-URL-HERE" width="100%" />
+<img src="assets/banner.gif" width="100%" />
 
 # 👋 Hi, I'm Kane
 
@@ -58,7 +58,7 @@ A full pipeline that:
 `FFmpeg` · `AI APIs` · `FCM (Web Notifications)`
 
 ---
-
+<!---
 ## 📚 Currently Learning
 - Kubernetes (K3s workflow: install → dashboard → deploy)  
 - High-availability backend design  
@@ -76,5 +76,5 @@ A full pipeline that:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kane-nguyen-02&layout=compact&theme=transparent" height="165" />
 
 </div>
-
+--->
 
