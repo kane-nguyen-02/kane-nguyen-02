@@ -66,8 +66,12 @@ A full pipeline that:
 
 ## 📈 GitHub Stats
 
-> *(You can enable these after pushing the README to your profile repo)*
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-```md
-![Kane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kane-nguyen-02&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kane-nguyen-02&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=kane-nguyen-02&show_icons=true&theme=transparent" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kane-nguyen-02&layout=compact&theme=transparent" height="165" />
+
+</div>
+
+
